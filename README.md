@@ -1,7 +1,6 @@
 <div align="center">
 <h1> Bharat Torrent Bro <h1>
-</div> 
-<div align="center">
+</div> <div align="center">
 <h3> ✗³𝙲𝚘𝚍𝚒𝚗𝚐 <h3>
 </div> 
 	
