@@ -1,8 +1,8 @@
 <div align="center">
-<h3> Bharat Torrent Bro <h3>
+<h1> Bharat Torrent Bro <h1>
 </div> 
 <div align="center">
-<h1> ✗³𝙲𝚘𝚍𝚒𝚗𝚐 <h1>
+<h3> ✗³𝙲𝚘𝚍𝚒𝚗𝚐 <h3>
 </div> 
 	
 >for Support join [Click here](https://telegram.dog/VijayAdithyaa)
