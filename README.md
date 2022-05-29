@@ -11,16 +11,9 @@
 >🤖Telegram Torrent🔥
 
 ---
-
-# Bharat Torrent Bot (a modified fork of Torrent Gdrive with Extra Features...)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Hey-Adithya/Bharat-Torrent-Bot?color=yellow&style=for-the-badge)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Hey-Adithya/Bharat-Torrent-Bot?color=violet&style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/Hey-Adithya/Bharat-Torrent-Bot?color=teal&style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/Hey-Adithya/Bharat-Torrent-Bot?color=white&style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Hey-Adithya/Bharat-Torrent-Bot?color=blue&style=for-the-badge)
-
-<p align="center"> <a href="https://t.me/BharatTorrentPro" target="_blank"> <img src="https://shields.io/badge/Support--Group-Join_Now-navy?logo=&style=for-the-badge" alt="support group" width="400" height="45"/>
-
+<br/> <div align="center">
+[![Fork](https://telegra.ph/file/0cf5e3964afe499d19a2b.png)](https://github.com/hey-adithya/Bharat-Leech-Bot/fork) • [![Telegram Group](https://telegra.ph/file/6ebc3fca0426110f74aa8.png)](https://t.me/BharatTorrentPro)
+</div>
 ---
 
 ### Dont Abuse The Repo ... this is intented to run in Small Places or For Short time 😐
