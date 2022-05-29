@@ -12,7 +12,9 @@
 
 ---
 
-<p align="center"> <a href="https://t.me/BharatTorrentPro" target="_blank"> <img src="https://shields.io/badge/Support--Group-Join_Now-navy?logo=&style=for-the-badge" alt="support group" width="400" height="45"/>
+<br/> <div align="center">
+[![Fork](https://telegra.ph/file/0cf5e3964afe499d19a2b.png)](https://github.com/hey-adithya/Bharat-Leech-Bot/fork) • [![Telegram Group](https://telegra.ph/file/6ebc3fca0426110f74aa8.png)](https://t.me/BharatTorrentPro)
+</div>
 
 ---
 
