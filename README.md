@@ -214,9 +214,9 @@ client_secret =
 ## How to Use?
 
 ### 🥳 send any one of the available command, as a reply to a valid link/magnet/torrent. 👊
-	
-	
-## Credits, and Thanks to
+___
+<div align="center"> Credits, and Thanks to
+
 
 * [XcodersHub](https://github.com/XcodersHub) for Modding 🙄
 
@@ -233,3 +233,5 @@ client_secret =
 * [@AjeeshNair](https://telegram.dog/AjeeshNait) for his [torrent.ajee.sh](https://torrent.ajee.sh)
 
 * [@gotstc](https://telegram.dog/gotstc), @aryanvikash, [@HasibulKabir](https://telegram.dog/HasibulKabir) for their TORRENT groups
+
+</div>
