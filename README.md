@@ -215,7 +215,7 @@ client_secret =
 
 ### 🥳 send any one of the available command, as a reply to a valid link/magnet/torrent. 👊
 ___
-<div align="center"> Credits, and Thanks to
+<div align="center"> <h2>Credits, and Thanks to<h2>
 
 
 * [XcodersHub](https://github.com/XcodersHub) for Modding 🙄
