@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Bharat Torrent Bro <h1>
+<h1> Bharat TorrentX Bro <h1>
 </div> 
 
 >for Support join [Click here](https://telegram.dog/VijayAdithyaa)
