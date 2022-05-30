@@ -52,11 +52,11 @@ for imp in ["TG_BOT_TOKEN", "APP_ID", "API_HASH", "OWNER_ID", "AUTH_CHANNEL"]:
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
 APP_ID = int(os.environ.get("APP_ID", "12345"))
 API_HASH = os.environ.get("API_HASH")
-OWNER_ID = int(os.environ.get("OWNER_ID", "671292689"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "-660610951"))
 
 # Get these values from my.telegram.org
 # to store the channel ID who are authorized to use the bot
-AUTH_CHANNEL = [int(x) for x in os.environ.get("AUTH_CHANNEL", "671292689").split()]
+AUTH_CHANNEL = [int(x) for x in os.environ.get("AUTH_CHANNEL", "-660610951").split()]
 
 # the download location, where the HTTP Server runs
 DOWNLOAD_LOCATION = "./DOWNLOADS"
@@ -64,7 +64,7 @@ DOWNLOAD_LOCATION = "./DOWNLOADS"
 MAX_FILE_SIZE = 50000000
 TG_MAX_FILE_SIZE = 50097152000
 FREE_USER_MAX_FILE_SIZE = 50000000
-AUTH_CHANNEL.append(671292689)
+AUTH_CHANNEL.append(-660610951)
 AUTH_CHANNEL.append(OWNER_ID)
 # chunk size that should be used with requests
 CHUNK_SIZE = int(os.environ.get("CHUNK_SIZE", "128"))
